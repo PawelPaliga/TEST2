@@ -1,4 +1,4 @@
-int Function2(int x)
+int FunkcjaKwadratowa(int x)
 {
 	return x*x;
 }
