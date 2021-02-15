@@ -1,7 +1,8 @@
 
 
 uint32_t MojaZmienna;
-uint32_t MojaZmienna2;
+float MojaZmienna3;
+uint32_t MojaZmienna4;
 
 void main(void)
 {
