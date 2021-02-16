@@ -1,7 +1,7 @@
 
 
 uint32_t MojaZmienna;
-double MojaZmienna5;
+double MojaZmienna51;
 uint32_t MojaZmienna41;
 
 
